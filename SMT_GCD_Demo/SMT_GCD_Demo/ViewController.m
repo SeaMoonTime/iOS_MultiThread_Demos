@@ -32,7 +32,7 @@
     if (!_cache) {
         _cache = [[NSCache alloc] init];
         // 设置成本为5 当存储的数据超过总成本数，NSCache会自动回收对象
-        _cache.totalCostLimit = 5;
+        _cache.totalCostLimit = 15;
         // 设置代理 代理方法一般不会用到，一般是进行测试的时候使用
 //        _cache.delegate = self;
     }

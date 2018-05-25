@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:SMT_GCD_Demo2/SMT_GCD_Demo2.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:SMT_GCD_Demo/SMT_GCD_Demo.xcodeproj">
    </FileRef>
 </Workspace>
