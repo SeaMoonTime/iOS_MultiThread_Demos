@@ -10,3 +10,8 @@
 
 - TableView同时下载多张图片；
 
+
+## SMT_GCD_AudioPlayer
+
+- 音频播放示例
+
